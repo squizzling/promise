@@ -1,0 +1,5 @@
+/.idea/
+/internal/static/wasm_exec.js
+/internal/static/tests.wasm
+/main
+/testsvr
